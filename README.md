@@ -1,4 +1,4 @@
-<h1 align="center">💻 ¡Hola, soy Isabela! 💜✨🚀</h1>
+                <h1 align="center">💻 ¡Hola, soy Isabela! 💜✨🚀</h1>
 
 <p align="center">
   <em>Desarrolladora web, dedicada al crecimiento continuo de mi carrera. 💡</em>
@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=isabela-Rt&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ✨ ¡Gracias por visitar mi perfil! 😊
