@@ -26,10 +26,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20Planner-6a0dad?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabela-Rt&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=isabela-Rt&show_icons=true&theme=radical&cache_seconds=30" alt="GitHub Stats">
 
 ✨ ¡Gracias por visitar mi perfil! 😊
 
