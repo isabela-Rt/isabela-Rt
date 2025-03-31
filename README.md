@@ -1,7 +1,6 @@
 <h1 align="center">💻 ¡Hola, soy Isabela! 🚀</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isabela-Rt/isabela-Rt/main/banner.svg">
   <em>Desarrolladora web, dedicada al crecimiento continuo de mi carrera. 💡</em>
 </p>
 
