@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mí  
 - 💙 Herramientas que manejo **HTML, CSS, JavaScript, SQL y Scriptcase**.  
-- 📌 Gestiono mis proyectos con **Trello** y metodologías ágiles.  
+- 📌 Gestiono mis proyectos con **Trello, Microsoft Planner y metodologías ágiles**  
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.    
 
 ---
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?&style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Scriptcase-%236DB33F.svg?&style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-%235899C3.svg?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Planner-%230078D4.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### 📊 GitHub Stats  
