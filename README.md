@@ -7,8 +7,7 @@
 
 ---
 
-### 👩‍💻 Sobre mí  
-- 💜 Herramientas que manejo **HTML, CSS, JavaScript, SQL y Scriptcase**.  
+### 👩‍💻 Sobre mí    
 - 📌 Gestiono mis proyectos con **Trello, Microsoft Planner y metodologías ágiles**  
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.    
 
@@ -20,11 +19,11 @@
 <img src="https://img.shields.io/badge/CSS3-6a0dad?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-6a0dad?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-6a0dad?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-6a0dad?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Scriptcase-6a0dad?style=for-the-badge&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-6a0dad?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Teams-6a0dad?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Planner-6a0dad?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-6a0dad?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ### 📊 GitHub Stats  
