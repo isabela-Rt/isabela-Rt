@@ -1,4 +1,4 @@
-<h1 align="center">💻 ¡Hola, soy Isabela! 🚀</h1>
+<h1 align="center">💻 ¡Hola, soy Isabela! 💜✨🚀</h1>
 
 <p align="center">
   <em>Desarrolladora web, dedicada al crecimiento continuo de mi carrera. 💡</em>
@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 Sobre mí  
-- 💙 Herramientas que manejo **HTML, CSS, JavaScript, SQL y Scriptcase**.  
+- 💜 Herramientas que manejo **HTML, CSS, JavaScript, SQL y Scriptcase**.  
 - 📌 Gestiono mis proyectos con **Trello, Microsoft Planner y metodologías ágiles**  
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.    
 
