@@ -1,7 +1,7 @@
 <h1 align="center">💻 ¡Hola, soy Isabela! 🚀</h1>
 
 <p align="center">
-  <em>Desarrolladora web, dedicada al desarrollo continuo de mi carrera. 💡</em>
+  <em>Desarrolladora web, dedicada al crecimiento continuo de mi carrera. 💡</em>
 </p>
 
 ---
