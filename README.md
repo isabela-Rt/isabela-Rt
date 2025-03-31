@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Trello-6a0dad?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Teams-6a0dad?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Planner-6a0dad?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-6a0dad?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ### 📊 GitHub Stats  
